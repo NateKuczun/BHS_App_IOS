@@ -15,4 +15,5 @@ import UIKit
 
 //: **Ub3r H4ck3r Challenge** - Create a variable called tuple and inside of it add a tuple. This tuple contains two other tuples. The first tuple has two strings: your first and last name. The second tuple also has two string: your city and states. Create another variable that holds the string: "My is <first name> <last name> and I live in <city> <state>"
 
-
+var knateSucks = 69
+print (knateSucks)
