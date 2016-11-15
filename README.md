@@ -2,6 +2,6 @@
 BHS App IOS Version
 
 
-// BHS App coded in a language called Swift Version 3 
+// BHS App coded in a language called  Swift Version 3 
 
 
