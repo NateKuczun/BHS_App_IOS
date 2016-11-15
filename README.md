@@ -1,5 +1,5 @@
 # BHS_App_IOS
 BHS App IOS Version
 
-// BHS App programmed in Swift Version 3 
+// BHS App programmed in a language called Swift Version 3 
 
